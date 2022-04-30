@@ -1,12 +1,12 @@
-package com.codesignal.arcade.intro;
+package com.codesignal.arcade.intro.edgeoftheocean;
 
 /**
  * Created by javalenja on 13-May-20
  */
 
-public class ShapeAreaClass {
+public class ShapeArea {
     public static void main(String[] args) {
-        ShapeAreaClass app = new ShapeAreaClass();
+        ShapeArea app = new ShapeArea();
         System.out.println(app.shapeArea(100));
     }
 

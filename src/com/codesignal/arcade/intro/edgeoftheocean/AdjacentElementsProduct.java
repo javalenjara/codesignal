@@ -1,4 +1,4 @@
-package com.codesignal.arcade.intro;
+package com.codesignal.arcade.intro.edgeoftheocean;
 
 /**
  * Created by javalenja on 13-May-20
@@ -22,5 +22,3 @@ public class AdjacentElementsProduct {
         return maxProduct;
     }
 }
-
-

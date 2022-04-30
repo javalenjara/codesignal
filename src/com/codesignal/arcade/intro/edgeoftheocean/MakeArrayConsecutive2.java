@@ -1,4 +1,4 @@
-package com.codesignal.arcade.intro;
+package com.codesignal.arcade.intro.edgeoftheocean;
 
 import java.util.Arrays;
 
@@ -6,10 +6,10 @@ import java.util.Arrays;
  * Created by javalenja on 13-May-20
  */
 
-public class MakeArrayConsecutive2Class {
+public class MakeArrayConsecutive2 {
 
     public static void main(String[] args) {
-        MakeArrayConsecutive2Class app = new MakeArrayConsecutive2Class();
+        MakeArrayConsecutive2 app = new MakeArrayConsecutive2();
         int[] test = {6, 2, 3, 8};
         System.out.println(app.makeArrayConsecutive2(test));
     }

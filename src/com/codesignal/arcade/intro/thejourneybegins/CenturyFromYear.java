@@ -1,4 +1,4 @@
-package com.codesignal.arcade.intro;
+package com.codesignal.arcade.intro.thejourneybegins;
 
 /**
  * Created by javalenja on 13-May-20
